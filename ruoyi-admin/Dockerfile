@@ -4,6 +4,7 @@ WORKDIR /app
 
 COPY target/ruoyi-admin.jar app.jar
 
+
 EXPOSE 8080
 
 
