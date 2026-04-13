@@ -1,4 +1,4 @@
-FROM registry.cn-hangzhou.aliyuncs.com/library/openjdk:8-jdk-slim
+FROM docker.mirrors.sjtug.sjtu.edu.cn/library/openjdk:8-jdk-slim
 
 WORKDIR /app
 
