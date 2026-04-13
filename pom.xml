@@ -31,7 +31,6 @@
         <jwt.version>0.9.1</jwt.version>
         <jaxb-api.version>2.3.1</jaxb-api.version>
         <springdoc.version>3.0.2</springdoc.version>
-		<tomcat.version>10.1.20</tomcat.version>
     </properties>
 
     <!-- 依赖声明 -->
